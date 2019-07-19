@@ -73,3 +73,9 @@ margin: 2px 6px;
 color: black;
 border: 1px solid #d3d3d3;
 }
+
+.buttons {
+ width: 100%;
+ text-align: center;
+ padding-top: 30px;
+}
